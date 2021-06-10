@@ -5,7 +5,7 @@ ajax with jquery
 
 you can login admin page with this informations:
 
-username -> mohammadreza
+username -> mohammad
 
 password -> 123
 
